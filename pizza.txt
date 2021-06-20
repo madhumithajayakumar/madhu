@@ -1,0 +1,6 @@
+www.zomato.in
+browse for pizza section
+select pizza
+select your choices
+enter the delivery address
+select order now
